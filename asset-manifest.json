@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.18fb2dbb.css",
-    "main.js": "/static/js/main.edc7ec8c.js",
-    "static/media/welcome-img-lila.png": "/static/media/welcome-img-lila.b51daee620e4415cc59f.png",
+    "main.css": "/static/css/main.a1467be1.css",
+    "main.js": "/static/js/main.41a80f3a.js",
     "static/media/welcome-img-mobile.png": "/static/media/welcome-img-mobile.5e277ddea7ec39c3e6a4.png",
+    "static/media/welcome-img-lila.webp": "/static/media/welcome-img-lila.2d5ba42d259fbe282b66.webp",
+    "static/media/http-iok-logo-2024-green.png": "/static/media/http-iok-logo-2024-green.62c23df8229c2e0a07be.png",
     "index.html": "/index.html",
-    "main.18fb2dbb.css.map": "/static/css/main.18fb2dbb.css.map",
-    "main.edc7ec8c.js.map": "/static/js/main.edc7ec8c.js.map"
+    "main.a1467be1.css.map": "/static/css/main.a1467be1.css.map",
+    "main.41a80f3a.js.map": "/static/js/main.41a80f3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.18fb2dbb.css",
-    "static/js/main.edc7ec8c.js"
+    "static/css/main.a1467be1.css",
+    "static/js/main.41a80f3a.js"
   ]
 }
