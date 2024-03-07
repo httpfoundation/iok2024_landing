@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a1467be1.css",
-    "main.js": "/static/js/main.af1d36d7.js",
+    "main.js": "/static/js/main.b9007d3b.js",
     "static/media/welcome-img-mobile.png": "/static/media/welcome-img-mobile.5e277ddea7ec39c3e6a4.png",
     "static/media/welcome-img-lila.webp": "/static/media/welcome-img-lila.2d5ba42d259fbe282b66.webp",
     "static/media/http-iok-logo-2024-green.png": "/static/media/http-iok-logo-2024-green.62c23df8229c2e0a07be.png",
     "index.html": "/index.html",
     "main.a1467be1.css.map": "/static/css/main.a1467be1.css.map",
-    "main.af1d36d7.js.map": "/static/js/main.af1d36d7.js.map"
+    "main.b9007d3b.js.map": "/static/js/main.b9007d3b.js.map"
   },
   "entrypoints": [
     "static/css/main.a1467be1.css",
-    "static/js/main.af1d36d7.js"
+    "static/js/main.b9007d3b.js"
   ]
 }
